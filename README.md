@@ -17,9 +17,13 @@
 
   ## Walkthrough Video
     
-     Setting up mysql , starting the server and testing Category & Products API routes   https://watch.screencastify.com/v/ldlt8uMcj1yJO4MZGB0v  
+     Setting up mysql , starting the server and testing Category & Products API routes 
 
-     Testing Tag API routes https://watch.screencastify.com/v/rl3PbKtdqLF8qrupSdAn
+      https://watch.screencastify.com/v/ldlt8uMcj1yJO4MZGB0v  
+
+     Testing Tag API routes
+
+      https://watch.screencastify.com/v/rl3PbKtdqLF8qrupSdAn
 
   ## Contributing 
 
